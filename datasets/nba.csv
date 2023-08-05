@@ -1,0 +1,839 @@
+rm,Player,MP,FG,FGA,FG%,3P,3PA,3P%,FT,FTA,FT%,ORB,DRB,TRB,AST,STL,BLK,TOV,PF,PTS,+/-
+0,Andrew Wiggins,31:14,4,16,0.250,2,6,0.333,3,4,0.750,0,2,2,1,0,1,4,4,13,-28
+1,Stephen Curry,30:19,7,21,0.333,2,10,0.200,4,4,1.000,3,1,4,10,2,0,3,1,20,-23
+2,Kelly Oubre Jr.,25:39,3,14,0.214,0,6,0.000,0,0,,4,3,7,2,1,2,3,1,6,-28
+3,James Wiseman,24:17,7,13,0.538,1,1,1.000,4,8,0.500,1,5,6,0,2,0,1,2,19,-10
+4,Eric Paschall,21:33,2,6,0.333,1,1,1.000,1,2,0.500,1,0,1,0,0,1,0,1,6,-28
+6,Brad Wanamaker,21:40,0,2,0.000,0,1,0.000,3,4,0.750,0,1,1,3,0,0,1,2,3,1
+7,Jordan Poole,17:55,1,4,0.250,0,1,0.000,0,0,,0,2,2,3,0,0,2,2,2,-3
+8,Juan Toscano-Anderson,13:15,2,2,1.000,0,0,,0,0,,0,4,4,2,0,2,0,3,4,-9
+9,Marquese Chriss,12:26,4,10,0.400,1,3,0.333,0,0,,3,5,8,1,0,0,0,2,9,-6
+10,Damion Lee,12:14,1,2,0.500,1,1,1.000,0,0,,1,6,7,2,0,0,0,0,3,8
+11,Kent Bazemore,11:35,1,2,0.500,0,1,0.000,0,0,,0,2,2,2,1,0,2,3,2,-3
+12,Kevon Looney,11:17,2,4,0.500,0,0,,0,1,0.000,0,2,2,0,0,0,2,3,4,-10
+13,Mychal Mulder,6:36,3,3,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,0,0,8,9
+0,Kyrie Irving,25:18,10,16,0.625,4,7,0.571,2,2,1.000,1,3,4,4,0,0,1,3,26,32
+1,Kevin Durant,24:56,7,16,0.438,1,2,0.500,7,7,1.000,1,4,5,3,3,1,1,3,22,26
+2,Joe Harris,20:46,4,8,0.500,2,5,0.400,0,0,,2,5,7,2,0,1,2,2,10,21
+3,Spencer Dinwiddie,19:57,2,6,0.333,1,3,0.333,4,4,1.000,0,5,5,4,0,0,3,1,9,24
+4,DeAndre Jordan,17:03,2,3,0.667,0,0,,0,2,0.000,2,9,11,1,1,1,3,2,4,21
+6,Caris LeVert,24:49,6,17,0.353,3,5,0.600,5,6,0.833,1,8,9,5,2,1,2,1,20,18
+7,Landry Shamet,19:43,1,4,0.250,1,4,0.250,3,4,0.750,0,1,1,0,1,0,2,3,6,12
+8,Jarrett Allen,19:37,2,3,0.667,0,0,,4,5,0.800,3,4,7,2,1,2,2,0,8,12
+9,Jeff Green,17:17,3,4,0.750,1,2,0.500,0,0,,0,0,0,1,1,0,1,3,7,6
+10,Taurean Prince,16:06,0,1,0.000,0,1,0.000,1,2,0.500,0,1,1,0,1,1,0,1,1,3
+11,Reggie Perry,7:46,1,3,0.333,0,1,0.000,0,0,,1,1,2,1,0,0,0,0,2,-8
+12,Bruce Brown,7:31,1,3,0.333,0,1,0.000,0,0,,0,1,1,1,0,0,2,1,2,-7
+13,Timothé Luwawu-Cabarrot,6:36,2,6,0.333,1,3,0.333,0,0,,1,1,2,0,0,0,1,2,5,-9
+14,Rodions Kurucs,6:36,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,-9
+15,Tyler Johnson,5:59,0,1,0.000,0,0,,0,0,,1,0,1,0,1,0,0,0,0,-12
+0,Paul George,35:46,13,18,0.722,5,8,0.625,2,2,1.000,0,6,6,3,1,0,5,3,33,17
+1,Kawhi Leonard,34:01,10,26,0.385,1,8,0.125,5,5,1.000,0,2,2,3,2,0,3,5,26,1
+2,Nicolas Batum,28:11,1,4,0.250,1,3,0.333,0,0,,1,5,6,6,2,0,1,2,3,-2
+3,Patrick Beverley,22:07,4,9,0.444,2,5,0.400,0,0,,4,2,6,3,0,0,2,4,10,10
+4,Serge Ibaka,20:33,5,7,0.714,2,3,0.667,3,5,0.600,2,4,6,0,0,1,1,3,15,-8
+6,Ivica Zubac,26:31,4,5,0.800,0,0,,3,4,0.750,3,3,6,1,1,1,1,4,11,17
+7,Lou Williams,25:58,4,9,0.444,2,4,0.500,1,3,0.333,0,2,2,3,0,0,1,2,11,1
+8,Luke Kennard,21:03,2,6,0.333,0,3,0.000,0,0,,0,2,2,2,2,1,1,3,4,-3
+9,Patrick Patterson,19:36,1,5,0.200,1,4,0.250,0,0,,1,2,3,1,2,0,1,2,3,9
+10,Reggie Jackson,3:21,0,3,0.000,0,2,0.000,0,0,,0,1,1,0,0,0,0,1,0,-1
+11,Terance Mann,1:01,0,1,0.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+12,Amir Coffey,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+13,Mfiondu Kabengele,0:56,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-2
+14,Daniel Oturu,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Anthony Davis,30:53,8,15,0.533,0,2,0.000,2,2,1.000,0,7,7,2,0,0,4,1,18,-16
+1,LeBron James,28:21,7,17,0.412,3,8,0.375,5,7,0.714,2,3,5,5,0,0,4,2,22,2
+2,Dennis Schröder,27:48,5,15,0.333,2,5,0.400,2,4,0.500,1,11,12,8,0,0,1,4,14,-10
+3,Kentavious Caldwell-Pope,23:03,2,4,0.500,1,3,0.333,4,4,1.000,0,2,2,1,2,1,2,2,9,-9
+4,Marc Gasol,12:02,0,0,,0,0,,0,0,,0,1,1,1,0,0,1,5,0,-8
+6,Montrezl Harrell,32:15,6,7,0.857,0,0,,5,7,0.714,4,6,10,3,0,1,1,1,17,-3
+7,Kyle Kuzma,26:38,6,11,0.545,1,3,0.333,2,2,1.000,0,1,1,0,0,0,2,2,15,1
+8,Markieff Morris,19:00,1,3,0.333,1,2,0.500,2,3,0.667,1,3,4,1,0,0,0,0,5,14
+9,Alex Caruso,16:40,1,5,0.200,1,4,0.250,0,0,,0,2,2,1,0,0,3,0,3,3
+10,Wesley Matthews,11:06,0,2,0.000,0,2,0.000,0,0,,0,0,0,0,1,0,0,0,0,-18
+11,Talen Horton-Tucker,10:51,2,2,1.000,0,0,,2,2,1.000,0,1,1,0,1,0,1,3,6,7
+12,Quinn Cook,1:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2
+13,Alfonzo McKinnie,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Jared Dudley,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Terry Rozier,37:31,15,23,0.652,10,16,0.625,2,4,0.500,1,2,3,2,2,1,3,5,42,-4
+1,Devonte' Graham,37:07,4,13,0.308,2,9,0.222,0,0,,2,1,3,10,0,0,2,1,10,-7
+2,Gordon Hayward,36:13,11,18,0.611,4,8,0.500,2,2,1.000,0,4,4,7,1,0,3,4,28,-2
+3,P.J. Washington,21:23,1,5,0.200,0,1,0.000,2,2,1.000,0,2,2,2,0,1,0,1,4,-17
+4,Cody Zeller,18:57,3,6,0.500,0,2,0.000,0,1,0.000,1,2,3,0,3,1,1,1,6,-10
+6,Bismack Biyombo,24:21,5,5,1.000,0,0,,1,5,0.200,1,3,4,0,0,1,2,1,11,0
+7,Miles Bridges,22:05,3,10,0.300,0,5,0.000,0,0,,1,5,6,1,1,0,0,1,6,6
+8,Cody Martin,21:01,2,3,0.667,0,0,,1,1,1.000,1,4,5,4,0,0,0,1,5,2
+9,LaMelo Ball,15:48,0,5,0.000,0,3,0.000,0,0,,0,1,1,3,2,0,3,2,0,2
+10,Jalen McDaniels,5:34,1,2,0.500,0,0,,0,0,,1,0,1,0,1,0,1,0,2,-5
+11,Caleb Martin,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Nick Richards,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Vernon Carey Jr.,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Malik Monk,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Collin Sexton,37:05,9,16,0.563,3,4,0.750,6,9,0.667,0,2,2,5,0,0,2,4,27,6
+1,Larry Nance Jr.,33:34,5,9,0.556,1,1,1.000,2,2,1.000,5,8,13,8,3,2,2,4,13,3
+2,Isaac Okoro,33:32,4,5,0.800,1,2,0.500,2,2,1.000,0,3,3,5,0,0,2,1,11,7
+3,Darius Garland,32:33,7,13,0.538,4,8,0.500,4,4,1.000,0,6,6,6,1,0,2,3,22,4
+4,Andre Drummond,27:13,7,18,0.389,0,1,0.000,0,0,,3,11,14,4,1,0,5,2,14,-5
+6,JaVale McGee,19:12,6,7,0.857,0,1,0.000,1,1,1.000,1,6,7,1,1,1,1,3,13,12
+7,Cedi Osman,17:57,4,9,0.444,3,6,0.500,0,0,,1,3,4,2,0,0,1,2,11,-4
+8,Dean Wade,15:52,3,4,0.750,1,2,0.500,0,0,,0,0,0,3,3,0,2,3,7,2
+9,Damyean Dotson,13:32,0,1,0.000,0,1,0.000,0,0,,0,1,1,0,1,0,0,0,0,14
+10,Dylan Windler,9:29,1,5,0.200,1,4,0.250,0,0,,0,0,0,0,2,0,1,0,3,-4
+11,Marques Bolden,0:01,0,0,,0,0,,0,2,0.000,0,0,0,0,0,0,0,0,0,0
+12,Lamar Stevens,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Thon Maker,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Julius Randle,35:28,7,15,0.467,0,2,0.000,3,4,0.750,1,8,9,9,0,0,5,5,17,-5
+1,RJ Barrett,34:22,11,15,0.733,3,3,1.000,1,2,0.500,0,8,8,5,0,0,1,3,26,-10
+2,Reggie Bullock,25:38,4,10,0.400,3,8,0.375,0,0,,0,1,1,2,1,0,0,3,11,-16
+3,Elfrid Payton,22:10,3,7,0.429,1,1,1.000,0,0,,1,1,2,3,1,0,5,3,7,-15
+4,Mitchell Robinson,21:10,1,2,0.500,0,0,,1,2,0.500,2,4,6,0,0,3,0,3,3,-17
+6,Alec Burks,31:40,6,12,0.500,2,4,0.500,8,9,0.889,0,4,4,3,1,1,1,3,22,4
+7,Obi Toppin,23:33,3,12,0.250,3,7,0.429,0,0,,0,3,3,1,0,2,0,0,9,-4
+8,Kevin Knox,18:29,2,5,0.400,0,1,0.000,0,1,0.000,0,3,3,0,2,1,2,3,4,-6
+9,Immanuel Quickley,12:26,1,3,0.333,0,1,0.000,3,3,1.000,0,1,1,1,1,0,0,0,5,5
+10,Nerlens Noel,9:22,1,2,0.500,0,0,,0,0,,1,2,3,1,1,1,2,3,2,0
+11,Frank Ntilikina,4:47,0,2,0.000,0,1,0.000,1,2,0.500,0,0,0,0,1,0,0,1,1,-5
+12,Theo Pinson,0:55,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
+13,Ignas Brazdeikis,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Dennis Smith Jr.,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Jared Harper,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Domantas Sabonis,36:48,11,18,0.611,2,4,0.500,8,12,0.667,4,9,13,5,1,0,4,5,32,12
+1,Malcolm Brogdon,34:51,8,16,0.500,2,4,0.500,3,3,1.000,2,5,7,8,2,0,1,2,21,0
+2,Myles Turner,28:48,4,9,0.444,0,4,0.000,2,2,1.000,1,7,8,1,0,8,2,1,10,20
+3,Victor Oladipo,28:16,9,14,0.643,2,5,0.400,2,3,0.667,0,4,4,4,1,0,1,3,22,5
+4,T.J. Warren,22:58,2,8,0.250,0,2,0.000,1,1,1.000,0,1,1,1,0,0,0,2,5,6
+6,Doug McDermott,28:17,5,12,0.417,0,6,0.000,3,4,0.750,1,5,6,2,1,0,1,2,13,6
+7,Justin Holiday,22:23,2,6,0.333,1,5,0.200,1,2,0.500,0,4,4,0,0,1,1,2,6,-1
+8,T.J. McConnell,20:20,2,3,0.667,0,0,,1,2,0.500,1,3,4,5,1,0,1,4,5,17
+9,Aaron Holiday,17:19,3,8,0.375,1,4,0.250,0,0,,1,2,3,2,0,0,2,3,7,5
+10,Cassius Stanley,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Edmond Sumner,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Jalen Lecque,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Kelan Martin,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,JaKarr Sampson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Jimmy Butler,35:42,7,15,0.467,0,0,,5,5,1.000,1,2,3,7,7,0,6,1,19,-5
+1,Bam Adebayo,34:41,11,16,0.688,0,0,,3,4,0.750,3,8,11,4,0,1,7,4,25,-12
+2,Tyler Herro,32:06,6,14,0.429,1,5,0.200,0,0,,0,6,6,4,0,0,4,3,13,-7
+3,Duncan Robinson,30:20,4,8,0.500,3,6,0.500,3,3,1.000,0,5,5,1,0,0,1,2,14,-5
+4,Maurice Harkless,22:43,1,4,0.250,1,2,0.500,0,0,,0,2,2,1,0,0,0,0,3,-4
+6,Goran Dragić,25:58,8,13,0.615,1,4,0.250,3,3,1.000,0,4,4,7,1,0,1,4,20,7
+7,Kelly Olynyk,19:59,2,6,0.333,1,3,0.333,0,0,,0,3,3,1,2,0,0,2,5,-3
+8,Andre Iguodala,16:50,0,2,0.000,0,0,,0,0,,2,2,4,0,1,1,3,3,0,-3
+9,Precious Achiuwa,13:39,3,4,0.750,0,0,,2,4,0.500,1,2,3,0,0,0,0,2,8,6
+10,Kendrick Nunn,8:02,0,1,0.000,0,0,,0,0,,0,2,2,0,0,0,0,0,0,-4
+11,KZ Okpala,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Meyers Leonard,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Udonis Haslem,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Chris Silva,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Avery Bradley,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Nikola Vučević,33:33,5,13,0.385,3,5,0.600,2,8,0.250,2,9,11,3,1,1,2,0,15,0
+1,Evan Fournier,30:43,9,13,0.692,3,5,0.600,4,5,0.800,0,0,0,4,3,0,2,2,25,0
+2,Markelle Fultz,28:49,6,15,0.400,0,3,0.000,3,3,1.000,0,5,5,4,1,1,4,4,15,3
+3,Aaron Gordon,26:00,8,11,0.727,1,4,0.250,3,6,0.500,3,4,7,0,4,0,2,4,20,17
+4,Dwayne Bacon,18:59,0,5,0.000,0,1,0.000,0,0,,0,3,3,3,0,0,0,2,0,0
+6,Terrence Ross,28:33,6,14,0.429,3,6,0.500,4,4,1.000,0,3,3,1,1,0,3,1,19,9
+7,Chuma Okeke,22:00,1,3,0.333,0,1,0.000,1,2,0.500,2,3,5,2,1,0,1,0,3,-11
+8,Cole Anthony,19:11,3,5,0.600,0,1,0.000,0,0,,0,2,2,6,2,0,3,1,6,3
+9,Michael Carter-Williams,17:45,2,5,0.400,0,2,0.000,0,0,,3,0,3,0,1,1,0,2,4,3
+10,Khem Birch,14:27,2,4,0.500,0,0,,2,2,1.000,1,1,2,0,1,0,0,3,6,6
+11,Karim Mané,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Mo Bamba,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Jordan Bone,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Gary Clark,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Russell Westbrook,36:18,9,22,0.409,0,2,0.000,3,5,0.600,2,9,11,15,0,0,6,3,21,10
+1,Bradley Beal,35:44,11,22,0.500,3,8,0.375,6,7,0.857,0,2,2,3,4,0,6,3,31,6
+2,Deni Avdija,28:06,2,2,1.000,2,2,1.000,1,2,0.500,0,4,4,1,1,0,1,3,7,14
+3,Thomas Bryant,25:33,5,13,0.385,0,3,0.000,0,1,0.000,1,4,5,0,0,1,2,5,10,2
+4,Isaac Bonga,16:43,2,3,0.667,1,1,1.000,0,1,0.000,1,2,3,2,2,0,1,2,5,7
+6,Ish Smith,22:53,2,7,0.286,1,2,0.500,2,2,1.000,0,4,4,3,0,1,1,1,7,-21
+7,Troy Brown Jr.,22:26,1,3,0.333,1,2,0.500,0,0,,0,3,3,1,0,0,0,2,3,-23
+8,Dāvis Bertāns,20:08,4,7,0.571,4,6,0.667,2,2,1.000,0,3,3,1,0,1,0,0,14,-3
+9,Robin Lopez,16:32,1,3,0.333,1,1,1.000,0,0,,1,2,3,0,0,1,2,4,3,-16
+10,Raul Neto,9:42,0,1,0.000,0,0,,2,3,0.667,0,0,0,1,0,0,0,0,2,-14
+11,Moritz Wagner,5:55,2,2,1.000,0,0,,0,0,,0,2,2,1,0,0,0,3,4,8
+12,Anthony Gill,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Jerome Robinson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Anžejs Pasečņiks,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Joel Embiid,34:50,10,17,0.588,1,1,1.000,8,9,0.889,2,12,14,2,0,1,3,3,29,-2
+1,Ben Simmons,32:25,7,12,0.583,0,0,,2,6,0.333,1,8,9,7,2,3,4,3,16,-2
+2,Seth Curry,32:16,4,8,0.500,1,5,0.200,4,4,1.000,0,0,0,4,2,0,1,4,13,-1
+3,Tobias Harris,31:08,3,13,0.231,0,4,0.000,4,4,1.000,4,4,8,0,0,1,2,4,10,-7
+4,Danny Green,18:16,1,6,0.167,0,4,0.000,0,0,,0,0,0,2,2,0,1,2,2,-27
+6,Shake Milton,29:44,6,11,0.545,2,4,0.500,5,7,0.714,0,1,1,3,3,0,0,3,19,33
+7,Furkan Korkmaz,20:11,4,9,0.444,3,6,0.500,0,0,,0,1,1,0,1,2,2,1,11,14
+8,Mike Scott,16:52,1,3,0.333,1,3,0.333,0,0,,0,2,2,0,1,0,0,1,3,13
+9,Dwight Howard,13:10,2,2,1.000,0,0,,0,0,,3,7,10,2,0,1,2,3,4,8
+10,Tyrese Maxey,10:51,3,6,0.500,0,1,0.000,0,0,,0,2,2,2,0,0,1,0,6,3
+11,Matisse Thybulle,0:17,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,1,0,-2
+12,Dakota Mathias,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Tony Bradley,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Terrance Ferguson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Isaiah Joe,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Brandon Ingram,37:20,10,19,0.526,3,6,0.500,1,2,0.500,0,9,9,11,3,1,3,2,24,17
+1,Eric Bledsoe,34:27,6,12,0.500,4,8,0.500,2,4,0.500,0,2,2,6,1,1,4,1,18,4
+2,Steven Adams,30:37,4,6,0.667,0,0,,0,0,,2,6,8,3,4,2,0,1,8,16
+3,Zion Williamson,29:34,7,9,0.778,0,0,,1,4,0.250,4,6,10,3,1,1,6,3,15,6
+4,Lonzo Ball,28:48,4,9,0.444,4,8,0.500,4,6,0.667,1,4,5,2,1,2,5,3,16,16
+6,J.J. Redick,28:52,8,14,0.571,6,11,0.545,1,1,1.000,0,3,3,1,0,0,1,4,23,10
+7,Josh Hart,26:41,2,5,0.400,1,4,0.250,1,3,0.333,1,4,5,1,2,0,2,2,6,8
+8,Nicolò Melli,13:31,0,4,0.000,0,3,0.000,0,0,,0,2,2,2,1,0,1,0,0,-6
+9,Jaxson Hayes,6:17,0,0,,0,0,,0,0,,0,0,0,1,0,0,1,1,0,1
+10,Nickeil Alexander-Walker,3:53,1,2,0.500,1,2,0.500,0,0,,0,1,1,0,0,0,1,0,3,-2
+11,Sindarius Thornwell,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Naji Marshall,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Kira Lewis Jr.,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Willy Hernangómez,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Pascal Siakam,38:41,8,17,0.471,3,7,0.429,1,2,0.500,0,6,6,6,0,0,4,1,20,-15
+1,Kyle Lowry,38:34,7,15,0.467,4,9,0.444,0,0,,1,0,1,10,1,0,6,3,18,-1
+2,OG Anunoby,36:13,4,10,0.400,0,5,0.000,0,0,,2,6,8,2,3,2,4,4,8,-14
+3,Fred VanVleet,29:36,3,12,0.250,2,8,0.250,1,2,0.500,1,2,3,3,3,0,1,4,9,-18
+4,Aron Baynes,28:06,5,9,0.556,1,4,0.250,0,0,,1,8,9,0,0,0,1,2,11,-17
+6,Norman Powell,23:09,2,11,0.182,1,6,0.167,7,8,0.875,0,1,1,1,1,0,0,4,12,-13
+7,Matt Thomas,20:17,3,6,0.500,3,5,0.600,0,0,,0,2,2,4,2,0,0,2,9,-1
+8,Chris Boucher,14:47,6,8,0.750,0,1,0.000,0,0,,2,3,5,0,0,2,2,2,12,2
+9,DeAndre' Bembry,5:30,0,0,,0,0,,0,0,,0,0,0,0,0,1,1,0,0,4
+10,Terence Davis,2:35,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-1
+11,Malachi Flynn,1:16,0,1,0.000,0,1,0.000,0,0,,0,0,0,0,0,0,0,0,0,2
+12,Stanley Johnson,1:16,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,2
+13,Yuta Watanabe,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Paul Watson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Alex Len,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Jrue Holiday,38:23,10,16,0.625,1,4,0.250,4,4,1.000,2,4,6,3,2,1,3,3,25,-5
+1,Khris Middleton,37:33,10,20,0.500,3,8,0.375,4,4,1.000,2,12,14,8,0,0,2,2,27,7
+2,Giannis Antetokounmpo,36:24,13,26,0.500,3,8,0.375,6,8,0.750,2,11,13,2,0,2,7,5,35,-1
+3,Brook Lopez,29:05,3,4,0.750,1,2,0.500,0,0,,2,1,3,0,0,2,0,3,7,22
+4,Donte DiVincenzo,27:13,6,11,0.545,3,4,0.750,0,0,,2,3,5,3,2,0,1,3,15,4
+6,Pat Connaughton,23:08,2,3,0.667,2,3,0.667,0,0,,0,1,1,1,0,0,1,1,6,-14
+7,Bobby Portis,16:22,1,3,0.333,0,0,,1,2,0.500,1,3,4,1,0,0,1,0,3,-16
+8,Bryn Forbes,13:31,1,5,0.200,1,4,0.250,0,0,,0,1,1,0,0,0,0,1,3,4
+9,D.J. Wilson,12:53,0,2,0.000,0,2,0.000,0,0,,0,5,5,1,0,1,1,2,0,-6
+10,Sam Merrill,5:28,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+11,Mamadi Diakite,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Jordan Nwora,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Thanasis Antetokounmpo,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Jaylen Adams,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Torrey Craig,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Marcus Smart,38:27,0,3,0.000,0,2,0.000,3,4,0.750,0,1,1,7,0,2,2,2,3,0
+1,Jaylen Brown,37:38,13,24,0.542,3,8,0.375,4,4,1.000,0,5,5,4,2,1,0,3,33,8
+2,Jayson Tatum,32:49,12,28,0.429,6,13,0.462,0,0,,0,7,7,2,2,1,2,2,30,-6
+3,Daniel Theis,24:40,4,8,0.500,2,6,0.333,0,0,,0,3,3,3,0,0,0,1,10,7
+4,Tristan Thompson,22:24,6,10,0.600,0,0,,0,0,,4,4,8,1,0,0,0,3,12,-6
+6,Jeff Teague,25:00,7,15,0.467,4,4,1.000,1,2,0.500,2,1,3,4,2,1,0,1,19,8
+7,Semi Ojeleye,18:59,2,2,1.000,1,1,1.000,0,1,0.000,1,3,4,1,0,0,0,1,5,20
+8,Grant Williams,14:35,1,5,0.200,1,4,0.250,0,0,,0,1,1,1,1,0,1,2,3,-19
+9,Payton Pritchard,13:00,1,4,0.250,1,2,0.500,0,0,,0,1,1,0,1,0,0,1,3,-2
+10,Robert Williams,12:28,2,2,1.000,0,0,,0,0,,3,1,4,0,0,1,1,1,4,-5
+11,Tremont Waters,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Aaron Nesmith,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Javonte Green,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Carsen Edwards,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Trae Young,25:57,10,12,0.833,5,6,0.833,12,14,0.857,2,4,6,7,0,0,4,1,37,30
+1,De'Andre Hunter,25:54,5,6,0.833,1,1,1.000,0,0,,0,3,3,1,0,0,2,3,11,40
+2,Danilo Gallinari,24:26,4,6,0.667,1,2,0.500,4,4,1.000,0,4,4,3,0,0,3,2,13,31
+3,Cam Reddish,23:46,6,11,0.545,1,3,0.333,2,2,1.000,1,5,6,0,2,0,1,3,15,27
+4,John Collins,18:03,6,10,0.600,0,2,0.000,2,2,1.000,0,4,4,2,0,2,0,4,14,21
+6,Solomon Hill,28:24,0,3,0.000,0,3,0.000,0,0,,0,3,3,0,0,1,3,2,0,-8
+7,Kevin Huerter,27:03,4,10,0.400,2,6,0.333,1,2,0.500,0,2,2,4,1,0,0,2,11,0
+8,Bogdan Bogdanović,24:56,5,12,0.417,3,8,0.375,2,3,0.667,0,7,7,2,1,0,2,2,15,0
+9,Bruno Fernando,18:08,2,3,0.667,0,0,,1,2,0.500,3,4,7,1,2,0,3,3,5,-1
+10,Brandon Goodwin,13:14,1,4,0.250,1,3,0.333,0,0,,0,1,1,4,0,0,1,4,3,-16
+11,Nathan Knight,5:04,0,2,0.000,0,0,,0,0,,2,1,3,0,0,0,2,2,0,-12
+12,Skylar Mays,5:04,0,1,0.000,0,1,0.000,0,0,,0,0,0,0,0,0,0,1,0,-12
+0,Patrick Williams,33:02,5,11,0.455,1,3,0.333,5,6,0.833,0,4,4,1,1,1,0,2,16,-23
+1,Coby White,30:28,2,11,0.182,1,7,0.143,4,4,1.000,0,2,2,7,2,0,3,2,9,-13
+2,Lauri Markkanen,30:12,6,9,0.667,4,6,0.667,5,5,1.000,1,6,7,4,2,0,2,1,21,-34
+3,Wendell Carter Jr.,25:46,2,5,0.400,0,2,0.000,2,2,1.000,1,5,6,2,0,0,3,3,6,-13
+4,Zach LaVine,25:18,9,19,0.474,1,8,0.125,3,3,1.000,1,1,2,1,1,0,5,5,22,-26
+6,Otto Porter Jr.,23:22,5,10,0.500,0,2,0.000,4,4,1.000,3,2,5,1,2,0,1,2,14,-9
+7,Ryan Arcidiacono,19:35,2,6,0.333,1,4,0.250,0,0,,0,3,3,2,1,0,0,2,5,6
+8,Chandler Hutchison,18:35,1,6,0.167,0,0,,0,0,,1,4,5,0,0,0,1,3,2,4
+9,Daniel Gafford,16:54,2,4,0.500,0,0,,1,4,0.250,0,1,1,0,0,1,0,1,5,2
+10,Adam Mokoka,16:47,2,6,0.333,0,3,0.000,0,0,,1,1,2,2,1,1,0,1,4,6
+11,Cristiano Felício,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Tomáš Satoranský,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Garrett Temple,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Denzel Valentine,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Luke Kornet,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,DeMar DeRozan,34:53,7,14,0.500,0,0,,14,15,0.933,2,7,9,9,1,1,1,1,28,-1
+1,Lonnie Walker IV,34:23,6,9,0.667,3,4,0.750,1,1,1.000,1,5,6,2,1,1,1,3,16,0
+2,Keldon Johnson,32:01,5,10,0.500,1,3,0.333,5,7,0.714,0,5,5,3,3,0,2,1,16,3
+3,Dejounte Murray,30:39,9,15,0.600,1,3,0.333,2,2,1.000,0,6,6,9,2,0,3,3,21,6
+4,LaMarcus Aldridge,28:46,9,17,0.529,1,4,0.250,1,1,1.000,0,3,3,1,0,1,2,3,20,-2
+6,Rudy Gay,21:06,4,9,0.444,1,5,0.200,1,2,0.500,0,7,7,1,0,3,1,1,10,14
+7,Devin Vassell,19:40,1,4,0.250,1,2,0.500,0,0,,1,2,3,0,0,1,0,1,3,13
+8,Patty Mills,19:18,5,11,0.455,2,4,0.500,1,1,1.000,0,2,2,2,0,0,0,4,13,13
+9,Jakob Poeltl,19:14,2,6,0.333,0,0,,0,0,,4,3,7,1,1,1,0,1,4,14
+10,Keita Bates-Diop,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Tre Jones,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Luka Šamanić,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Drew Eubanks,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Trey Lyles,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Ja Morant,35:10,18,27,0.667,1,2,0.500,7,8,0.875,0,2,2,9,2,1,1,1,44,10
+1,Dillon Brooks,33:13,7,14,0.500,1,3,0.333,1,1,1.000,1,3,4,6,2,0,2,6,16,-10
+2,Jonas Valančiūnas,29:33,6,11,0.545,1,1,1.000,2,6,0.333,3,10,13,2,1,1,1,4,15,-4
+3,Kyle Anderson,28:50,3,8,0.375,1,3,0.333,0,0,,0,10,10,2,0,0,2,3,7,-6
+4,Grayson Allen,26:57,2,7,0.286,2,6,0.333,0,0,,0,2,2,5,0,1,0,1,6,-3
+6,Brandon Clarke,25:51,5,9,0.556,0,2,0.000,0,1,0.000,0,3,3,0,0,1,1,1,10,-8
+7,De'Anthony Melton,24:32,1,6,0.167,1,3,0.333,0,0,,0,2,2,1,0,2,0,1,3,-7
+8,Tyus Jones,13:35,3,5,0.600,0,1,0.000,1,2,0.500,0,1,1,1,0,0,2,0,7,-20
+9,Gorgui Dieng,11:46,2,3,0.667,1,2,0.500,0,0,,0,1,1,1,1,2,1,2,5,-6
+10,Desmond Bane,10:33,2,5,0.400,2,4,0.500,0,0,,1,3,4,0,0,0,1,1,6,-6
+11,John Konchar,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Sean McDermott,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Blake Griffin,35:00,6,13,0.462,0,5,0.000,3,5,0.600,0,7,7,2,0,0,2,2,15,-15
+1,Mason Plumlee,32:12,7,8,0.875,0,0,,0,0,,1,7,8,6,0,0,0,4,14,-9
+2,Jerami Grant,31:25,4,11,0.364,1,5,0.200,0,0,,0,1,1,3,1,1,0,0,9,-14
+3,Killian Hayes,21:12,3,6,0.500,1,2,0.500,0,0,,0,1,1,3,0,0,4,2,7,-3
+4,Delon Wright,19:09,2,5,0.400,1,3,0.333,0,0,,0,2,2,4,1,0,1,0,5,3
+6,Josh Jackson,28:51,8,14,0.571,3,7,0.429,0,0,,0,6,6,2,1,0,2,5,19,-13
+7,Derrick Rose,26:48,7,13,0.538,1,3,0.333,0,2,0.000,0,1,1,6,2,1,1,1,15,-7
+8,Svi Mykhailiuk,16:35,1,8,0.125,1,8,0.125,0,0,,0,2,2,1,0,0,0,1,3,4
+9,Jahlil Okafor,15:18,4,7,0.571,0,0,,0,0,,4,3,7,1,0,0,2,4,8,-1
+10,Sekou Doumbouya,13:30,3,8,0.375,0,2,0.000,0,1,0.000,2,7,9,1,0,0,0,1,6,5
+11,Rodney McGruder,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Saddiq Bey,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Isaiah Stewart,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Wayne Ellington,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Saben Lee,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Josh Okogie,32:33,4,9,0.444,1,4,0.250,3,3,1.000,1,3,4,2,0,0,2,3,12,17
+1,Karl-Anthony Towns,30:26,6,10,0.600,2,4,0.500,8,8,1.000,3,8,11,7,1,2,4,4,22,11
+2,Malik Beasley,26:37,10,18,0.556,3,9,0.333,0,0,,1,3,4,2,1,0,1,3,23,12
+3,Ricky Rubio,25:25,1,4,0.250,0,1,0.000,1,2,0.500,0,1,1,3,2,0,1,3,3,17
+4,Jake Layman,16:33,0,3,0.000,0,1,0.000,0,0,,0,1,1,0,0,0,0,0,0,-15
+6,D'Angelo Russell,33:20,7,16,0.438,4,11,0.364,0,0,,1,4,5,4,1,0,2,2,18,5
+7,Anthony Edwards,25:09,5,12,0.417,1,5,0.200,4,4,1.000,2,2,4,4,0,0,1,1,15,4
+8,Jarrett Culver,20:37,3,6,0.500,0,1,0.000,4,5,0.800,2,8,10,2,0,0,0,0,10,7
+9,Naz Reid,17:34,2,5,0.400,0,1,0.000,4,6,0.667,2,3,5,1,0,3,0,0,8,-1
+10,Juancho Hernangómez,11:46,0,5,0.000,0,4,0.000,0,0,,0,3,3,0,1,0,0,0,0,-7
+11,Ed Davis,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Jarred Vanderbilt,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Jaden McDaniels,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Harrison Barnes,41:57,8,15,0.533,0,3,0.000,5,7,0.714,1,8,9,5,2,0,1,1,21,3
+1,Buddy Hield,41:07,7,15,0.467,5,11,0.455,3,3,1.000,1,3,4,3,1,0,3,5,22,-2
+2,De'Aaron Fox,38:43,8,20,0.400,1,2,0.500,4,5,0.800,2,2,4,7,1,1,2,2,21,-2
+3,Marvin Bagley III,27:21,5,15,0.333,0,4,0.000,3,4,0.750,2,8,10,0,0,1,2,6,13,2
+4,Richaun Holmes,22:59,3,6,0.500,0,0,,0,0,,6,3,9,1,0,1,1,6,6,1
+6,Tyrese Haliburton,30:00,3,7,0.429,2,5,0.400,4,4,1.000,1,1,2,4,0,1,0,0,12,1
+7,Cory Joseph,29:22,6,10,0.600,2,5,0.400,1,2,0.500,0,3,3,4,1,2,2,4,15,8
+8,Hassan Whiteside,17:34,2,6,0.333,0,0,,0,2,0.000,2,7,9,1,0,1,2,2,4,3
+9,Nemanja Bjelica,15:56,3,8,0.375,0,1,0.000,4,4,1.000,3,1,4,2,0,0,1,3,10,-4
+10,Jahmi'us Ramsey,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Kyle Guy,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Robert Woodard II,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Justin James,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Glenn Robinson III,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Harrison Barnes,41:57,0.581,0.533,0.200,0.467,2.3,22.0,11.4,18.1,2.3,0.0,5.2,18.6,128,109,5.7,,,,
+1,Buddy Hield,41:07,0.674,0.633,0.733,0.200,2.4,8.4,5.2,10.7,1.2,0.0,15.5,19.2,122,114,2.4,,,,
+2,De'Aaron Fox,38:43,0.473,0.425,0.100,0.250,5.1,6.0,5.5,28.1,1.3,2.0,8.3,25.6,110,113,2.0,,,,
+3,Marvin Bagley III,27:21,0.388,0.333,0.267,0.267,7.2,33.7,19.4,0.0,0.0,2.8,10.7,28.0,83,109,-12.5,,,,
+4,Richaun Holmes,22:59,0.500,0.500,0.000,0.000,25.6,15.0,20.8,6.1,0.0,3.3,14.3,12.5,122,112,-5.6,,,,
+6,Tyrese Haliburton,30:00,0.685,0.571,0.714,0.571,3.3,3.8,3.5,17.8,0.0,2.6,0.0,11.9,165,116,6.2,,,,
+7,Cory Joseph,29:22,0.689,0.700,0.500,0.200,0.0,11.8,5.4,21.1,1.6,5.2,15.5,17.9,123,108,7.4,,,,
+8,Hassan Whiteside,17:34,0.291,0.333,0.000,0.333,11.2,45.9,27.2,7.7,0.0,4.4,22.5,20.7,64,105,-9.8,,,,
+9,Nemanja Bjelica,15:56,0.512,0.375,0.125,0.500,18.5,7.2,13.3,19.0,0.0,0.0,9.3,27.6,121,117,-0.7,,,,
+10,Jahmi'us Ramsey,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+11,Kyle Guy,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+12,Robert Woodard II,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+13,Justin James,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+14,Glenn Robinson III,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+0,Bojan Bogdanović,33:12,5,14,0.357,4,11,0.364,1,1,1.000,1,5,6,2,0,0,3,2,15,22
+1,Donovan Mitchell,30:47,6,16,0.375,4,10,0.400,4,4,1.000,0,3,3,5,1,0,2,2,20,11
+2,Mike Conley,29:35,6,15,0.400,4,7,0.571,2,3,0.667,0,3,3,2,0,0,2,3,18,14
+3,Rudy Gobert,28:08,8,10,0.800,0,0,,4,6,0.667,4,13,17,2,1,0,2,2,20,15
+4,Royce O'Neale,28:05,0,5,0.000,0,4,0.000,0,0,,3,4,7,0,0,1,0,3,0,6
+6,Joe Ingles,26:43,5,10,0.500,3,8,0.375,1,1,1.000,0,5,5,7,1,1,1,0,14,14
+7,Jordan Clarkson,22:09,6,12,0.500,3,6,0.500,0,0,,1,6,7,1,0,1,1,0,15,16
+8,Derrick Favors,16:17,5,5,1.000,0,0,,0,0,,2,5,7,3,0,0,0,3,10,5
+9,Georges Niang,8:31,0,2,0.000,0,2,0.000,0,0,,0,0,0,0,0,0,0,1,0,4
+10,Miye Oni,3:51,1,2,0.500,1,1,1.000,0,0,,0,1,1,1,0,0,0,0,3,-2
+11,Udoka Azubuike,3:35,1,1,1.000,0,0,,0,0,,1,0,1,0,0,0,0,0,2,0
+12,Elijah Hughes,3:09,0,1,0.000,0,0,,3,4,0.750,0,1,1,1,0,0,0,0,3,-2
+13,Juwan Morgan,3:09,0,1,0.000,0,1,0.000,0,0,,0,1,1,0,0,0,0,0,0,-2
+14,Shaquille Harrison,2:49,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-1
+0,CJ McCollum,34:10,7,19,0.368,3,8,0.375,6,6,1.000,1,3,4,3,0,1,0,3,23,-11
+1,Damian Lillard,33:41,4,12,0.333,1,7,0.143,0,1,0.000,0,4,4,7,1,1,1,1,9,-21
+2,Derrick Jones Jr.,25:35,3,9,0.333,3,5,0.600,0,0,,1,3,4,0,0,0,1,3,9,-16
+3,Jusuf Nurkić,21:52,5,9,0.556,1,2,0.500,2,2,1.000,1,2,3,3,1,0,2,3,13,-10
+4,Robert Covington,21:25,0,3,0.000,0,3,0.000,1,2,0.500,0,4,4,3,1,0,0,2,1,-18
+6,Gary Trent Jr.,26:08,4,12,0.333,3,5,0.600,0,0,,0,2,2,3,2,0,0,0,11,-10
+7,Enes Freedom,25:54,7,7,1.000,0,0,,0,0,,1,7,8,0,0,0,0,0,14,-10
+8,Carmelo Anthony,24:04,5,12,0.417,0,0,,5,6,0.833,1,3,4,0,1,0,1,2,15,-3
+9,Rodney Hood,13:50,0,3,0.000,0,0,,0,0,,0,3,3,2,0,0,0,0,0,-1
+10,Harry Giles,4:27,1,2,0.500,1,1,1.000,0,0,,0,2,2,0,0,1,0,1,3,0
+11,CJ Elleby,4:27,1,2,0.500,0,1,0.000,0,0,,1,1,2,1,0,0,0,2,2,0
+12,Keljin Blevins,4:27,0,2,0.000,0,1,0.000,0,0,,0,0,0,1,0,0,1,1,0,0
+0,Josh Richardson,36:16,5,11,0.455,2,7,0.286,0,0,,1,6,7,1,1,0,2,4,12,-9
+1,Luka Dončić,35:57,11,26,0.423,0,6,0.000,10,12,0.833,2,6,8,5,0,0,1,2,32,-9
+2,Dorian Finney-Smith,35:48,4,11,0.364,1,6,0.167,2,2,1.000,1,7,8,3,2,0,0,3,11,11
+3,Tim Hardaway Jr.,26:48,3,10,0.300,3,8,0.375,3,6,0.500,0,4,4,0,1,0,0,1,12,-4
+4,Dwight Powell,17:32,1,3,0.333,0,0,,0,0,,1,1,2,1,1,0,2,3,2,-3
+6,Maxi Kleber,26:53,2,8,0.250,2,7,0.286,4,4,1.000,1,2,3,1,0,0,1,4,10,-19
+7,Trey Burke,19:35,3,6,0.500,1,1,1.000,0,0,,0,0,0,0,0,0,1,0,7,-1
+8,Jalen Brunson,18:11,5,8,0.625,0,2,0.000,2,2,1.000,0,2,2,4,0,0,3,2,12,3
+9,James Johnson,13:42,0,0,,0,0,,0,0,,0,3,3,1,1,0,1,3,0,2
+10,Willie Cauley-Stein,6:02,1,1,1.000,0,0,,0,0,,0,2,2,1,0,0,0,1,2,14
+11,Josh Green,3:16,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,-5
+12,Boban Marjanović,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Wes Iwundu,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Tyrell Terry,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Mikal Bridges,35:57,5,11,0.455,4,7,0.571,4,4,1.000,2,5,7,0,0,2,0,2,18,9
+1,Devin Booker,34:07,8,15,0.533,2,6,0.333,4,6,0.667,0,5,5,3,2,0,8,4,22,7
+2,Chris Paul,27:45,3,9,0.333,0,2,0.000,2,2,1.000,1,3,4,5,2,0,3,3,8,-10
+3,Jae Crowder,25:57,1,6,0.167,1,5,0.200,1,2,0.500,0,9,9,4,0,0,1,0,4,-12
+4,Deandre Ayton,24:10,5,9,0.556,0,0,,3,6,0.500,1,7,8,1,1,2,2,4,13,-4
+6,Cameron Johnson,25:32,5,9,0.556,1,3,0.333,4,4,1.000,0,5,5,1,1,0,0,2,15,9
+7,Cameron Payne,20:15,5,9,0.556,1,2,0.500,0,0,,1,2,3,3,0,1,1,2,11,14
+8,Jalen Smith,16:13,2,3,0.667,0,0,,0,2,0.000,1,2,3,1,0,1,1,1,4,6
+9,Jevon Carter,13:53,0,3,0.000,0,3,0.000,0,0,,0,2,2,2,0,0,1,2,0,-3
+10,Langston Galloway,8:34,4,5,0.800,2,2,1.000,1,1,1.000,0,1,1,1,0,0,0,1,11,2
+11,Damian Jones,7:37,0,0,,0,0,,0,0,,0,1,1,0,1,1,1,5,0,2
+12,E'Twaun Moore,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Ty-Shon Alexander,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Dario Šarić,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Zion Williamson,38:18,11,20,0.550,0,1,0.000,10,15,0.667,4,10,14,1,1,0,3,1,32,-13
+1,Brandon Ingram,37:03,7,17,0.412,4,8,0.500,10,11,0.909,0,2,2,3,0,0,4,0,28,2
+2,Lonzo Ball,33:26,2,8,0.250,2,8,0.250,0,0,,0,2,2,6,2,1,3,4,6,-3
+3,Eric Bledsoe,33:10,2,10,0.200,1,6,0.167,0,0,,0,2,2,6,1,0,5,2,5,-3
+4,Steven Adams,32:22,3,3,1.000,0,0,,0,0,,4,5,9,1,2,1,2,2,6,5
+6,Josh Hart,28:40,5,10,0.500,2,6,0.333,0,0,,2,7,9,0,1,0,0,3,12,-10
+7,J.J. Redick,24:24,1,7,0.143,1,5,0.200,5,5,1.000,0,2,2,0,1,0,1,6,8,-27
+8,Nicolò Melli,9:22,0,2,0.000,0,1,0.000,1,2,0.500,0,0,0,0,0,0,0,2,1,-7
+9,Jaxson Hayes,3:15,0,1,0.000,0,0,,0,0,,1,0,1,1,0,0,1,0,0,-9
+10,Sindarius Thornwell,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Naji Marshall,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Kira Lewis Jr.,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Nickeil Alexander-Walker,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Willy Hernangómez,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Tyler Herro,32:20,3,10,0.300,2,4,0.500,3,3,1.000,0,2,2,3,1,0,3,1,11,0
+1,Duncan Robinson,32:02,8,14,0.571,7,13,0.538,0,0,,0,5,5,0,0,0,1,3,23,5
+2,Bam Adebayo,28:13,5,9,0.556,0,0,,7,8,0.875,0,4,4,2,2,1,3,2,17,9
+3,Meyers Leonard,19:48,3,5,0.600,3,5,0.600,0,0,,0,2,2,1,0,0,1,5,9,1
+4,Jimmy Butler,16:13,2,7,0.286,0,1,0.000,0,0,,3,3,6,5,1,0,1,0,4,-8
+6,Avery Bradley,28:27,4,7,0.571,2,5,0.400,2,3,0.667,0,2,2,4,2,0,2,2,12,23
+7,Goran Dragić,27:09,6,11,0.545,0,4,0.000,6,7,0.857,0,2,2,9,4,0,3,1,18,21
+8,Andre Iguodala,26:13,2,5,0.400,2,5,0.400,0,0,,0,7,7,3,1,0,2,3,6,17
+9,Precious Achiuwa,19:28,5,7,0.714,0,0,,1,2,0.500,1,2,3,2,0,1,1,6,11,4
+10,Maurice Harkless,9:29,0,0,,0,0,,0,0,,0,2,2,0,0,0,0,2,0,-7
+11,KZ Okpala,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+12,Chris Silva,0:19,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+13,Kelly Olynyk,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Kendrick Nunn,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Udonis Haslem,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Stephen Curry,28:58,6,17,0.353,2,10,0.200,5,5,1.000,0,4,4,6,1,0,2,2,19,-24
+1,James Wiseman,25:03,5,11,0.455,3,4,0.750,5,6,0.833,3,5,8,0,0,3,2,4,18,-16
+2,Eric Paschall,24:59,3,8,0.375,0,3,0.000,1,1,1.000,1,1,2,1,1,0,1,2,7,-23
+3,Andrew Wiggins,24:54,6,18,0.333,0,4,0.000,0,0,,3,3,6,0,1,0,1,3,12,-19
+4,Kelly Oubre Jr.,19:46,1,10,0.100,0,5,0.000,1,2,0.500,1,4,5,1,1,0,2,3,3,-15
+6,Jordan Poole,19:02,4,11,0.364,1,6,0.167,2,2,1.000,0,1,1,0,0,0,0,1,11,-15
+7,Brad Wanamaker,19:02,4,7,0.571,1,2,0.500,2,2,1.000,0,1,1,2,1,0,0,3,11,-15
+8,Damion Lee,18:54,2,4,0.500,2,4,0.500,3,3,1.000,0,2,2,1,0,0,1,0,9,-10
+9,Mychal Mulder,17:34,1,4,0.250,1,4,0.250,0,0,,0,3,3,0,0,1,0,0,3,-15
+10,Marquese Chriss,14:17,1,4,0.250,0,2,0.000,2,4,0.500,0,5,5,1,0,2,2,1,4,-19
+11,Juan Toscano-Anderson,12:33,0,0,,0,0,,0,0,,1,2,3,1,0,0,0,1,0,-9
+12,Kevon Looney,11:01,1,3,0.333,0,1,0.000,0,0,,1,2,3,0,0,0,0,1,2,-11
+13,Kent Bazemore,3:56,0,2,0.000,0,0,,0,0,,0,0,0,1,0,0,0,1,0,-4
+0,Giannis Antetokounmpo,26:42,4,14,0.286,0,3,0.000,7,15,0.467,4,9,13,4,0,0,2,2,15,26
+1,Khris Middleton,25:47,10,15,0.667,6,8,0.750,5,5,1.000,0,4,4,5,2,0,2,2,31,21
+2,Jrue Holiday,25:22,6,8,0.750,0,1,0.000,0,0,,1,3,4,6,0,1,3,1,12,23
+3,Donte DiVincenzo,19:59,5,8,0.625,3,5,0.600,0,0,,1,3,4,0,2,0,2,1,13,5
+4,Brook Lopez,19:43,3,6,0.500,0,1,0.000,2,2,1.000,2,2,4,0,0,1,2,1,8,14
+6,Bobby Portis,25:53,5,9,0.556,0,3,0.000,0,0,,1,11,12,2,1,1,1,1,10,20
+7,Pat Connaughton,18:53,1,3,0.333,0,1,0.000,0,0,,0,7,7,2,0,0,0,0,2,27
+8,D.J. Wilson,13:56,3,4,0.750,3,3,1.000,0,0,,0,4,4,0,0,1,1,2,9,12
+9,D.J. Augustin,13:27,4,6,0.667,3,3,1.000,2,2,1.000,0,0,0,1,0,0,0,1,13,10
+10,Bryn Forbes,13:21,3,5,0.600,2,3,0.667,0,0,,0,0,0,0,0,0,0,1,8,13
+11,Jordan Nwora,9:46,2,6,0.333,1,3,0.333,2,2,1.000,0,1,1,0,0,0,1,2,7,6
+12,Thanasis Antetokounmpo,9:46,2,2,1.000,0,0,,0,0,,0,0,0,1,0,0,1,1,4,6
+13,Torrey Craig,9:46,0,1,0.000,0,0,,0,0,,0,4,4,0,0,0,1,2,0,6
+14,Sam Merrill,7:37,2,3,0.667,2,2,1.000,0,0,,2,1,3,4,1,0,1,0,6,6
+15,Jaylen Adams,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Kyrie Irving,33:24,13,21,0.619,7,10,0.700,4,4,1.000,1,5,6,8,1,0,1,4,37,31
+1,Kevin Durant,33:24,9,16,0.563,3,4,0.750,8,9,0.889,0,4,4,3,2,0,2,3,29,31
+2,Spencer Dinwiddie,29:12,2,6,0.333,0,2,0.000,2,2,1.000,0,4,4,2,2,1,2,3,6,16
+3,Joe Harris,26:12,3,6,0.500,2,4,0.500,1,2,0.500,0,1,1,0,0,0,0,4,9,23
+4,DeAndre Jordan,19:14,2,2,1.000,0,0,,0,2,0.000,2,5,7,2,0,2,1,2,4,5
+6,Jarrett Allen,21:27,2,3,0.667,0,0,,5,6,0.833,5,6,11,1,0,4,1,1,9,18
+7,Landry Shamet,19:25,1,3,0.333,1,3,0.333,2,2,1.000,0,3,3,1,0,1,1,0,5,1
+8,Caris LeVert,18:34,5,8,0.625,0,2,0.000,0,0,,0,1,1,3,0,1,7,1,10,1
+9,Jeff Green,14:32,1,3,0.333,0,1,0.000,0,0,,1,3,4,0,0,0,0,1,2,1
+10,Taurean Prince,12:06,1,5,0.200,1,2,0.500,2,2,1.000,0,0,0,0,0,1,0,2,5,-7
+11,Timothé Luwawu-Cabarrot,2:30,1,1,1.000,0,0,,2,2,1.000,0,0,0,0,0,0,0,0,4,4
+12,Tyler Johnson,2:30,1,1,1.000,1,1,1.000,0,0,,0,0,0,0,0,0,0,0,3,4
+13,Bruce Brown,2:30,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,0,0,4
+14,Rodions Kurucs,2:30,0,1,0.000,0,0,,0,0,,0,1,1,0,0,0,0,1,0,4
+15,Reggie Perry,2:30,0,0,,0,0,,0,0,,0,0,0,1,0,0,0,0,0,4
+0,Jayson Tatum,36:07,9,22,0.409,2,6,0.333,0,0,,1,7,8,2,1,1,3,1,20,-21
+1,Marcus Smart,31:53,4,12,0.333,3,7,0.429,2,2,1.000,2,1,3,6,2,1,1,5,13,-24
+2,Jaylen Brown,30:32,11,25,0.440,0,4,0.000,5,9,0.556,5,3,8,3,0,1,2,5,27,-25
+3,Daniel Theis,23:21,1,3,0.333,0,2,0.000,0,0,,1,4,5,3,0,0,1,3,2,-14
+4,Tristan Thompson,21:25,3,8,0.375,0,0,,2,2,1.000,5,3,8,0,0,1,1,5,8,-19
+6,Payton Pritchard,25:06,3,5,0.600,1,2,0.500,0,0,,0,2,2,1,2,0,3,3,7,-9
+7,Jeff Teague,21:18,0,5,0.000,0,1,0.000,0,0,,0,1,1,2,1,0,2,1,0,0
+8,Grant Williams,18:33,2,4,0.500,0,1,0.000,0,0,,2,4,6,4,0,1,0,3,4,-4
+9,Semi Ojeleye,14:17,2,7,0.286,1,2,0.500,4,6,0.667,3,1,4,1,0,0,0,1,9,-4
+10,Aaron Nesmith,8:45,1,2,0.500,1,2,0.500,0,0,,0,0,0,0,0,0,1,0,3,-6
+11,Javonte Green,3:43,1,3,0.333,0,0,,0,0,,1,1,2,0,0,0,0,0,2,-6
+12,Carsen Edwards,2:30,0,1,0.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+13,Tremont Waters,2:30,0,1,0.000,0,0,,0,0,,0,0,0,1,0,0,1,0,0,-4
+0,Luka Dončić,34:08,9,19,0.474,2,5,0.400,7,8,0.875,0,4,4,7,0,1,3,0,27,-14
+1,Dorian Finney-Smith,29:22,4,9,0.444,2,6,0.333,0,0,,0,2,2,0,3,0,1,4,10,-19
+2,Tim Hardaway Jr.,28:03,4,12,0.333,1,5,0.200,1,2,0.500,1,3,4,2,0,0,0,1,10,-9
+3,Josh Richardson,27:23,6,12,0.500,2,5,0.400,3,3,1.000,1,1,2,2,2,0,0,4,17,-10
+4,Dwight Powell,23:32,4,4,1.000,1,1,1.000,2,4,0.500,0,3,3,1,3,0,1,2,11,-11
+6,Trey Burke,24:28,5,10,0.500,4,7,0.571,3,4,0.750,0,1,1,2,0,1,0,5,17,-13
+7,Maxi Kleber,19:45,1,2,0.500,1,2,0.500,2,2,1.000,1,4,5,0,2,0,0,0,5,-8
+8,Willie Cauley-Stein,14:05,0,3,0.000,0,0,,0,0,,0,2,2,0,2,1,1,3,0,-6
+9,Jalen Brunson,13:52,2,5,0.400,0,1,0.000,0,0,,0,2,2,1,0,0,3,2,4,-9
+10,James Johnson,11:52,1,1,1.000,0,0,,2,3,0.667,0,1,1,4,1,0,0,0,4,-7
+11,Boban Marjanović,7:02,3,4,0.750,0,0,,0,0,,0,1,1,0,0,0,0,1,6,-2
+12,Wes Iwundu,2:23,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,0,2,-4
+13,Josh Green,2:23,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-4
+14,Tyrell Terry,1:42,1,1,1.000,0,0,,0,0,,0,0,0,1,0,0,0,0,2,1
+0,LeBron James,31:24,8,18,0.444,3,8,0.375,3,4,0.750,1,6,7,10,1,0,4,0,22,16
+1,Anthony Davis,30:17,10,16,0.625,3,5,0.600,5,7,0.714,1,7,8,5,2,0,2,2,28,16
+2,Dennis Schröder,25:07,7,11,0.636,1,3,0.333,3,4,0.750,1,1,2,6,0,0,4,5,18,8
+3,Kentavious Caldwell-Pope,24:09,3,7,0.429,2,6,0.333,0,0,,0,0,0,2,1,2,0,4,8,14
+4,Marc Gasol,19:34,0,1,0.000,0,1,0.000,2,2,1.000,2,7,9,0,0,0,1,2,2,8
+6,Montrezl Harrell,28:26,10,13,0.769,0,1,0.000,2,5,0.400,5,2,7,2,1,0,2,4,22,15
+7,Kyle Kuzma,21:54,5,11,0.455,3,4,0.750,0,0,,2,4,6,2,0,1,0,1,13,7
+8,Wesley Matthews,16:25,1,3,0.333,0,2,0.000,0,0,,0,1,1,0,1,0,0,1,2,-3
+9,Markieff Morris,15:20,3,5,0.600,3,5,0.600,0,0,,3,4,7,2,1,0,0,0,9,3
+10,Alex Caruso,13:24,2,2,1.000,2,2,1.000,0,0,,0,1,1,2,2,0,2,2,6,10
+11,Talen Horton-Tucker,6:51,1,2,0.500,1,1,1.000,2,2,1.000,1,0,1,2,0,1,1,2,5,9
+12,Alfonzo McKinnie,2:23,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,4
+13,Quinn Cook,2:23,0,1,0.000,0,0,,0,0,,0,0,0,0,0,0,0,0,0,4
+14,Jared Dudley,2:23,0,0,,0,0,,0,0,,1,2,3,0,0,0,0,0,0,4
+0,Paul George,36:56,8,14,0.571,5,9,0.556,2,2,1.000,0,5,5,9,1,0,6,1,23,14
+1,Nicolas Batum,36:19,5,8,0.625,2,5,0.400,1,1,1.000,4,6,10,4,1,1,2,5,13,13
+2,Kawhi Leonard,30:21,8,14,0.571,2,4,0.500,3,3,1.000,2,3,5,7,4,1,2,4,21,13
+3,Patrick Beverley,21:33,3,6,0.500,2,5,0.400,1,2,0.500,1,1,2,0,2,0,1,5,9,5
+4,Serge Ibaka,21:29,6,9,0.667,2,2,1.000,1,1,1.000,0,2,2,2,0,1,1,4,15,10
+6,Lou Williams,23:38,3,7,0.429,2,4,0.500,0,0,,0,4,4,3,1,0,1,1,8,4
+7,Luke Kennard,19:53,2,6,0.333,2,4,0.500,2,2,1.000,0,6,6,2,0,0,2,1,8,6
+8,Ivica Zubac,19:05,2,2,1.000,0,0,,8,11,0.727,0,0,0,0,0,1,2,4,12,9
+9,Reggie Jackson,13:03,2,6,0.333,1,4,0.250,0,0,,0,1,1,3,0,0,0,2,5,-4
+10,Patrick Patterson,11:29,1,1,1.000,1,1,1.000,2,2,1.000,2,1,3,2,0,0,1,4,5,2
+11,Terance Mann,4:44,1,1,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,2,-4
+12,Mfiondu Kabengele,0:38,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-3
+13,Amir Coffey,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+14,Daniel Oturu,0:26,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,0
+0,Nikola Jokić,38:29,7,13,0.538,1,4,0.250,9,11,0.818,3,6,9,10,1,0,5,2,24,-20
+1,Jamal Murray,37:16,9,20,0.450,4,11,0.364,1,2,0.500,2,3,5,3,1,0,3,4,23,-3
+2,Michael Porter Jr.,23:20,4,9,0.444,2,6,0.333,0,0,,0,3,3,2,2,0,0,2,10,-14
+3,Gary Harris,22:24,1,5,0.200,0,2,0.000,0,0,,0,1,1,2,1,0,2,2,2,-12
+4,Paul Millsap,21:53,3,5,0.600,1,2,0.500,1,2,0.500,0,1,1,0,0,0,0,4,8,-10
+6,Monte Morris,30:21,3,7,0.429,1,3,0.333,6,7,0.857,1,0,1,4,1,0,0,0,13,-5
+7,Will Barton,28:33,4,10,0.400,1,4,0.250,6,9,0.667,1,4,5,3,1,0,1,3,15,0
+8,PJ Dozier,19:07,3,5,0.600,1,2,0.500,0,0,,1,1,2,0,0,0,1,2,7,1
+9,Isaiah Hartenstein,9:31,3,5,0.600,0,0,,0,0,,2,3,5,1,0,1,0,1,6,7
+10,Bol Bol,5:29,0,1,0.000,0,1,0.000,0,0,,0,0,0,0,0,0,0,0,0,-2
+11,Facundo Campazzo,3:11,0,0,,0,0,,0,0,,0,0,0,0,0,0,1,0,0,-7
+12,Markus Howard,0:26,0,1,0.000,0,1,0.000,0,0,,0,0,0,0,0,0,0,0,0,0
+13,Vlatko Čančar,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Zeke Nnaji,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,R.J. Hampton,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Trae Young,35:23,10,24,0.417,1,7,0.143,15,17,0.882,2,1,3,9,0,0,2,1,36,12
+1,De'Andre Hunter,35:19,5,11,0.455,2,4,0.500,3,3,1.000,1,10,11,3,0,2,1,3,15,13
+2,Cam Reddish,32:28,2,8,0.250,1,1,1.000,0,0,,1,2,3,2,1,1,3,3,5,0
+3,Bogdan Bogdanović,32:13,2,10,0.200,1,9,0.111,2,2,1.000,1,8,9,2,1,0,1,0,7,0
+4,John Collins,27:18,4,9,0.444,0,3,0.000,5,5,1.000,3,7,10,0,1,2,2,4,13,15
+6,Kevin Huerter,26:36,8,12,0.667,4,5,0.800,1,1,1.000,0,2,2,4,1,0,3,5,21,14
+7,Bruno Fernando,17:12,0,1,0.000,0,0,,0,0,,2,8,10,3,0,0,2,1,0,-1
+8,Solomon Hill,12:58,2,5,0.400,1,2,0.500,1,1,1.000,1,1,2,0,0,0,0,2,6,3
+9,Brandon Goodwin,11:58,1,4,0.250,1,2,0.500,2,4,0.500,1,0,1,0,0,0,0,0,5,-2
+10,Nathan Knight,8:35,4,5,0.800,2,3,0.667,4,5,0.800,1,2,3,0,0,0,1,1,14,-4
+11,Danilo Gallinari,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Skylar Mays,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Rajon Rondo,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Kyle Anderson,36:26,8,15,0.533,2,6,0.333,2,2,1.000,1,13,14,1,0,2,0,2,20,1
+1,Ja Morant,33:31,10,21,0.476,2,7,0.286,6,8,0.750,1,2,3,7,0,1,2,4,28,-2
+2,Dillon Brooks,30:36,8,23,0.348,3,11,0.273,0,0,,0,2,2,2,2,0,2,6,19,7
+3,Grayson Allen,29:28,2,6,0.333,1,5,0.200,5,5,1.000,3,1,4,2,0,0,0,0,10,-7
+4,Jonas Valančiūnas,28:56,2,6,0.333,1,3,0.333,8,10,0.800,2,10,12,4,1,1,4,5,13,2
+6,Desmond Bane,22:21,2,2,1.000,2,2,1.000,0,0,,0,1,1,0,0,0,0,4,6,2
+7,Brandon Clarke,20:06,2,8,0.250,0,1,0.000,0,0,,1,2,3,1,0,0,0,4,4,-15
+8,Tyus Jones,15:59,0,4,0.000,0,2,0.000,0,0,,0,1,1,3,0,1,0,0,0,-8
+9,John Konchar,15:39,1,3,0.333,1,3,0.333,4,4,1.000,1,3,4,0,2,1,1,1,7,-16
+10,Gorgui Dieng,6:58,2,5,0.400,1,3,0.333,0,0,,0,2,2,0,0,0,1,1,5,-14
+11,Sean McDermott,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Xavier Tillman Sr.,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Luguentz Dort,34:34,5,12,0.417,1,4,0.250,4,4,1.000,2,3,5,2,1,1,0,3,15,16
+1,Shai Gilgeous-Alexander,34:22,8,20,0.400,1,6,0.167,7,10,0.700,2,5,7,9,0,1,5,4,24,14
+2,Darius Bazley,32:56,7,12,0.583,1,5,0.200,0,0,,1,9,10,1,1,2,1,1,15,9
+3,Al Horford,28:33,1,5,0.200,0,2,0.000,1,1,1.000,0,13,13,3,0,1,1,0,3,3
+4,George Hill,24:03,8,9,0.889,4,4,1.000,1,2,0.500,1,3,4,3,1,0,1,2,21,10
+6,Théo Maledon,20:26,2,5,0.400,0,2,0.000,0,0,,0,0,0,2,2,0,4,2,4,-16
+7,Hamidou Diallo,19:40,3,8,0.375,0,1,0.000,2,3,0.667,2,4,6,2,1,0,2,1,8,-9
+8,Mike Muscala,18:10,5,8,0.625,2,4,0.500,2,2,1.000,0,2,2,1,2,0,0,3,14,2
+9,Kenrich Williams,16:20,1,3,0.333,1,2,0.500,2,2,1.000,1,2,3,2,1,1,1,3,5,-6
+10,Aleksej Pokusevski,10:56,0,6,0.000,0,6,0.000,0,0,,0,4,4,0,1,1,1,2,0,-13
+11,Josh Hall,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Isaiah Roby,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Moses Brown,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Darius Miller,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Justin Jackson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Gordon Hayward,34:41,5,13,0.385,0,5,0.000,2,3,0.667,0,5,5,7,2,0,3,3,12,-2
+1,Devonte' Graham,33:50,4,16,0.250,3,7,0.429,3,5,0.600,1,2,3,10,1,0,2,2,14,14
+2,Terry Rozier,31:18,5,15,0.333,2,7,0.286,7,9,0.778,1,2,3,2,2,1,0,2,19,-18
+3,Bismack Biyombo,30:19,2,7,0.286,0,0,,1,2,0.500,3,6,9,4,0,2,0,2,5,-5
+4,P.J. Washington,29:09,7,15,0.467,1,3,0.333,3,6,0.500,2,6,8,1,2,3,2,3,18,-7
+6,Miles Bridges,23:07,5,8,0.625,4,4,1.000,0,0,,3,2,5,0,1,2,2,4,14,-4
+7,Cody Martin,16:11,0,0,,0,0,,0,0,,1,2,3,1,0,0,0,1,0,3
+8,Caleb Martin,15:23,4,8,0.500,1,2,0.500,1,1,1.000,0,1,1,0,2,0,1,1,10,7
+9,LaMelo Ball,15:19,5,10,0.500,2,4,0.500,1,2,0.500,2,3,5,1,1,0,2,1,13,-11
+10,Jalen McDaniels,10:43,0,1,0.000,0,0,,2,4,0.500,0,5,5,1,0,0,1,3,2,13
+11,Vernon Carey Jr.,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Malik Monk,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Nick Richards,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Collin Sexton,45:14,15,23,0.652,2,3,0.667,0,1,0.000,0,2,2,3,3,0,4,5,32,9
+1,Darius Garland,43:59,9,14,0.643,3,3,1.000,0,0,,2,3,5,12,2,1,2,3,21,19
+2,Andre Drummond,43:40,7,21,0.333,0,2,0.000,9,14,0.643,2,14,16,5,4,3,4,2,23,10
+3,Isaac Okoro,41:38,0,4,0.000,0,3,0.000,0,0,,0,3,3,0,1,0,2,4,0,16
+4,Kevin Love,37:32,4,12,0.333,3,8,0.375,4,5,0.800,1,8,9,3,0,0,3,1,15,14
+6,Cedi Osman,25:56,7,12,0.583,4,7,0.571,4,6,0.667,0,4,4,0,1,0,0,1,22,-12
+7,Larry Nance Jr.,24:30,0,3,0.000,0,2,0.000,0,0,,2,5,7,2,2,0,1,1,0,-2
+8,JaVale McGee,14:19,4,7,0.571,1,1,1.000,2,4,0.500,0,2,2,0,0,0,2,6,11,-1
+9,Dante Exum,13:09,2,3,0.667,0,1,0.000,0,0,,0,3,3,4,0,0,0,1,4,-8
+10,Lamar Stevens,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Marques Bolden,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Damyean Dotson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Dean Wade,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Thon Maker,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Collin Sexton,5:00,3,3,1.000,0,0,,0,0,,0,0,0,0,0,0,0,1,6,9
+1,Darius Garland,5:00,1,2,0.500,1,1,1.000,0,0,,0,0,0,1,0,0,0,1,3,9
+2,Andre Drummond,5:00,0,1,0.000,0,0,,0,0,,0,2,2,1,0,0,0,0,0,9
+3,Isaac Okoro,3:54,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,7
+4,Kevin Love,5:00,0,0,,0,0,,4,5,0.800,0,1,1,1,0,0,0,0,4,9
+6,Cedi Osman,1:06,1,1,1.000,1,1,1.000,0,0,,0,1,1,0,0,0,0,0,3,2
+7,Larry Nance Jr.,,,,,,,,,,,,,,,,,,,,
+8,JaVale McGee,,,,,,,,,,,,,,,,,,,,
+9,Dante Exum,,,,,,,,,,,,,,,,,,,,
+10,Lamar Stevens,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Marques Bolden,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Damyean Dotson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Dean Wade,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Thon Maker,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Nikola Vučević,31:05,8,20,0.400,2,7,0.286,4,4,1.000,3,14,17,3,2,0,3,1,22,5
+1,Markelle Fultz,31:05,7,13,0.538,0,2,0.000,7,8,0.875,2,2,4,7,1,0,2,3,21,5
+2,Aaron Gordon,29:39,6,12,0.500,1,2,0.500,2,4,0.500,1,8,9,3,0,0,0,3,15,16
+3,Evan Fournier,28:57,4,8,0.500,1,5,0.200,4,5,0.800,1,4,5,0,2,0,2,4,13,-1
+4,Dwayne Bacon,20:21,2,3,0.667,2,2,1.000,0,0,,0,1,1,1,1,0,1,1,6,-1
+6,Terrence Ross,28:06,9,14,0.643,3,6,0.500,4,4,1.000,0,2,2,1,2,0,2,0,25,11
+7,Michael Carter-Williams,18:36,3,4,0.750,1,2,0.500,1,2,0.500,2,1,3,2,0,0,3,3,8,11
+8,Chuma Okeke,18:21,1,4,0.250,0,1,0.000,1,2,0.500,1,2,3,2,0,0,0,1,3,-6
+9,Cole Anthony,16:55,4,11,0.364,1,4,0.250,0,0,,1,4,5,5,0,0,0,2,9,5
+10,Khem Birch,16:55,4,6,0.667,0,0,,0,0,,0,5,5,1,0,0,0,3,8,5
+11,Gary Clark,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Jordan Bone,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Mo Bamba,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Karim Mané,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Bradley Beal,37:14,14,24,0.583,2,5,0.400,9,13,0.692,2,5,7,5,2,0,4,2,39,-9
+1,Russell Westbrook,35:59,6,19,0.316,0,4,0.000,3,4,0.750,2,13,15,12,2,0,5,3,15,2
+2,Thomas Bryant,30:04,8,11,0.727,3,5,0.600,0,0,,0,5,5,1,0,0,0,2,19,-3
+3,Isaac Bonga,20:00,4,5,0.800,2,3,0.667,0,0,,0,0,0,2,0,2,1,3,10,-2
+4,Deni Avdija,14:40,2,2,1.000,1,1,1.000,0,1,0.000,0,3,3,2,0,0,0,4,5,-7
+6,Ish Smith,22:19,4,9,0.444,0,1,0.000,0,3,0.000,0,4,4,3,0,0,1,1,8,-12
+7,Dāvis Bertāns,19:46,3,11,0.273,2,10,0.200,1,3,0.333,1,0,1,1,1,0,0,1,9,-1
+8,Jerome Robinson,19:39,0,3,0.000,0,2,0.000,0,0,,0,2,2,1,0,0,1,4,0,-5
+9,Robin Lopez,17:56,1,2,0.500,0,0,,2,4,0.500,1,2,3,0,0,1,0,1,4,-7
+10,Troy Brown Jr.,13:14,0,5,0.000,0,3,0.000,0,0,,1,2,3,1,0,0,1,2,0,3
+11,Raul Neto,9:09,4,4,1.000,3,3,1.000,0,0,,0,0,0,0,0,0,1,2,11,-9
+12,Anthony Gill,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Moritz Wagner,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Anžejs Pasečņiks,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Ben Simmons,32:53,5,9,0.556,0,0,,5,8,0.625,1,8,9,6,1,2,3,4,15,22
+1,Joel Embiid,30:39,10,20,0.500,2,4,0.500,5,7,0.714,4,6,10,2,1,1,1,3,27,18
+2,Tobias Harris,30:10,7,14,0.500,2,5,0.400,1,2,0.500,2,3,5,2,0,2,0,2,17,32
+3,Seth Curry,29:53,6,8,0.750,3,4,0.750,2,2,1.000,0,4,4,3,1,0,0,0,17,23
+4,Danny Green,28:02,2,6,0.333,2,6,0.333,0,0,,1,4,5,3,4,0,1,2,6,19
+6,Shake Milton,22:32,4,8,0.500,0,2,0.000,2,2,1.000,0,1,1,0,0,0,3,3,10,-4
+7,Furkan Korkmaz,18:00,1,7,0.143,1,5,0.200,0,0,,0,3,3,1,0,0,3,1,3,-4
+8,Mike Scott,16:46,1,5,0.200,1,5,0.200,0,0,,0,2,2,0,0,0,0,0,3,-8
+9,Dwight Howard,15:24,4,7,0.571,0,0,,1,1,1.000,3,3,6,0,1,1,0,4,9,-1
+10,Tyrese Maxey,8:49,1,4,0.250,0,0,,0,0,,1,1,2,3,0,0,1,0,2,2
+11,Matisse Thybulle,6:52,0,0,,0,0,,0,0,,0,0,0,0,1,0,0,0,0,1
+12,Terrance Ferguson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Dakota Mathias,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Isaiah Joe,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Tony Bradley,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,RJ Barrett,37:04,2,15,0.133,0,6,0.000,6,8,0.750,1,5,6,4,0,0,4,0,10,-16
+1,Julius Randle,34:35,11,15,0.733,2,2,1.000,1,2,0.500,3,4,7,3,1,0,4,4,25,-20
+2,Reggie Bullock,27:23,2,7,0.286,1,4,0.250,1,2,0.500,0,3,3,2,0,0,0,4,6,-13
+3,Mitchell Robinson,24:59,5,8,0.625,0,0,,1,2,0.500,5,4,9,0,1,2,0,3,11,-19
+4,Elfrid Payton,18:14,0,6,0.000,0,3,0.000,0,0,,0,3,3,1,0,0,0,1,0,-15
+6,Alec Burks,30:42,6,13,0.462,4,6,0.667,6,6,1.000,0,5,5,3,2,1,5,4,22,-4
+7,Kevin Knox,28:33,3,6,0.500,1,3,0.333,0,0,,3,1,4,3,0,0,1,2,7,-9
+8,Dennis Smith Jr.,17:38,1,5,0.200,0,2,0.000,2,2,1.000,0,2,2,2,1,0,1,4,4,1
+9,Nerlens Noel,15:58,2,5,0.400,0,0,,0,1,0.000,1,3,4,1,1,1,1,1,4,1
+10,Frank Ntilikina,2:27,0,1,0.000,0,1,0.000,0,0,,0,0,0,0,0,0,0,0,0,-3
+11,Theo Pinson,2:27,0,2,0.000,0,2,0.000,0,0,,0,0,0,0,0,0,0,0,0,-3
+12,Jared Harper,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Ignas Brazdeikis,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Domantas Sabonis,33:56,8,11,0.727,0,1,0.000,6,11,0.545,1,9,10,11,1,0,5,6,22,16
+1,Malcolm Brogdon,28:52,8,14,0.571,1,4,0.250,1,1,1.000,0,2,2,6,1,0,1,1,18,8
+2,T.J. Warren,26:59,10,16,0.625,0,2,0.000,3,4,0.750,2,4,6,3,0,0,0,3,23,9
+3,Myles Turner,25:13,4,8,0.500,1,4,0.250,0,0,,0,5,5,1,2,4,1,4,9,15
+4,Victor Oladipo,25:03,8,12,0.667,5,5,1.000,1,1,1.000,0,7,7,1,2,0,2,2,22,8
+6,Justin Holiday,31:25,2,5,0.400,0,3,0.000,1,2,0.500,0,2,2,2,2,0,0,3,5,3
+7,Doug McDermott,22:08,5,8,0.625,2,4,0.500,0,0,,2,6,8,0,0,0,1,2,12,6
+8,T.J. McConnell,19:08,2,5,0.400,0,0,,0,0,,2,1,3,8,3,0,3,2,4,11
+9,Aaron Holiday,18:56,3,10,0.300,0,3,0.000,0,0,,0,2,2,2,3,0,2,2,6,7
+10,Kelan Martin,2:05,1,1,1.000,0,0,,0,0,,0,0,0,0,1,0,0,0,2,3
+11,Cassius Stanley,2:05,1,2,0.500,0,0,,0,0,,1,0,1,0,0,0,1,0,2,3
+12,Jalen Lecque,2:05,0,1,0.000,0,0,,0,0,,1,1,2,0,0,0,0,0,0,3
+13,JaKarr Sampson,2:05,0,0,,0,0,,0,0,,0,1,1,0,0,0,0,1,0,3
+0,Zach LaVine,28:50,6,13,0.462,3,6,0.500,2,2,1.000,0,1,1,2,1,0,3,4,17,-20
+1,Wendell Carter Jr.,27:21,2,10,0.200,0,1,0.000,5,6,0.833,3,3,6,2,0,2,1,3,9,-20
+2,Lauri Markkanen,27:09,6,14,0.429,2,8,0.250,2,3,0.667,2,7,9,0,0,0,2,2,16,-15
+3,Coby White,24:57,4,10,0.400,4,7,0.571,0,0,,1,1,2,3,0,1,4,2,12,-16
+4,Patrick Williams,22:04,2,6,0.333,1,1,1.000,4,4,1.000,1,1,2,1,0,1,4,0,9,-14
+6,Tomáš Satoranský,24:54,2,5,0.400,0,1,0.000,2,2,1.000,2,2,4,9,2,1,3,0,6,-1
+7,Garrett Temple,19:51,2,7,0.286,2,4,0.500,0,0,,1,1,2,2,2,0,0,1,6,7
+8,Otto Porter Jr.,19:07,4,12,0.333,1,5,0.200,1,1,1.000,1,5,6,2,0,0,2,1,10,-6
+9,Denzel Valentine,12:54,4,6,0.667,3,4,0.750,0,0,,0,1,1,0,1,1,0,0,11,-10
+10,Daniel Gafford,11:57,1,3,0.333,0,0,,1,2,0.500,2,2,4,0,0,1,0,0,3,-3
+11,Ryan Arcidiacono,8:26,1,3,0.333,0,1,0.000,3,3,1.000,0,3,3,2,1,0,0,0,5,3
+12,Chandler Hutchison,7:31,0,1,0.000,0,0,,2,2,1.000,0,1,1,0,0,0,0,1,2,2
+13,Adam Mokoka,4:59,0,1,0.000,0,1,0.000,0,0,,0,0,0,0,0,0,1,2,0,-2
+14,Luke Kornet,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Cristiano Felício,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Pascal Siakam,43:02,6,16,0.375,0,5,0.000,4,4,1.000,2,13,15,8,1,1,5,5,16,-4
+1,OG Anunoby,35:44,3,6,0.500,2,5,0.400,2,4,0.500,1,5,6,1,2,1,0,2,10,2
+2,Kyle Lowry,35:28,6,15,0.400,2,6,0.333,2,2,1.000,0,0,0,10,2,0,2,5,16,3
+3,Fred VanVleet,35:27,10,20,0.500,5,12,0.417,2,3,0.667,0,3,3,9,1,0,1,1,27,-2
+4,Aron Baynes,19:44,6,11,0.545,1,4,0.250,0,0,,3,4,7,1,0,0,1,3,13,4
+6,Chris Boucher,28:15,9,13,0.692,3,4,0.750,1,2,0.500,4,6,10,1,0,7,0,4,22,-9
+7,Matt Thomas,18:51,3,8,0.375,2,5,0.400,0,0,,0,3,3,1,0,0,1,0,8,-10
+8,Norman Powell,17:54,0,5,0.000,0,0,,0,0,,0,1,1,1,2,0,0,2,0,-2
+9,DeAndre' Bembry,5:33,1,2,0.500,0,0,,0,0,,0,1,1,0,0,0,1,1,2,-7
+10,Malachi Flynn,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Alex Len,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Yuta Watanabe,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Stanley Johnson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Terence Davis,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Paul Watson,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,DeMar DeRozan,36:26,10,17,0.588,3,4,0.750,4,5,0.800,1,4,5,8,2,0,2,2,27,7
+1,Dejounte Murray,29:59,5,15,0.333,0,3,0.000,1,1,1.000,2,8,10,10,0,0,2,3,11,-5
+2,LaMarcus Aldridge,28:43,5,14,0.357,1,5,0.200,1,2,0.500,1,5,6,4,0,1,0,2,12,-9
+3,Keldon Johnson,28:27,5,15,0.333,0,2,0.000,2,2,1.000,2,7,9,0,1,1,2,2,12,-10
+4,Lonnie Walker IV,24:53,6,14,0.429,2,8,0.250,0,1,0.000,1,3,4,2,0,0,2,3,14,-13
+6,Patty Mills,29:38,8,9,0.889,5,6,0.833,0,0,,1,0,1,3,0,0,1,2,21,12
+7,Rudy Gay,27:05,2,6,0.333,1,4,0.250,3,4,0.750,1,4,5,2,0,0,3,3,8,21
+8,Jakob Poeltl,18:47,2,4,0.500,0,0,,0,1,0.000,4,3,7,5,0,0,2,0,4,10
+9,Devin Vassell,11:53,3,5,0.600,1,1,1.000,0,0,,0,5,5,1,1,1,2,3,7,14
+10,Trey Lyles,4:08,1,1,1.000,1,1,1.000,0,0,,1,0,1,1,0,0,0,0,3,-2
+11,Drew Eubanks,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Keita Bates-Diop,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Tre Jones,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Luka Šamanić,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Malik Beasley,38:42,7,17,0.412,1,4,0.250,3,3,1.000,2,4,6,0,1,0,2,3,18,13
+1,D'Angelo Russell,34:11,9,21,0.429,3,6,0.500,4,8,0.500,0,2,2,6,1,0,2,4,25,-9
+2,Josh Okogie,31:33,4,8,0.500,0,1,0.000,0,0,,3,3,6,2,0,1,1,3,8,-4
+3,Karl-Anthony Towns,29:54,6,19,0.316,1,5,0.200,3,3,1.000,3,9,12,3,1,4,2,3,16,11
+4,Jake Layman,13:36,0,0,,0,0,,0,0,,0,0,0,1,1,0,0,2,0,0
+6,Ricky Rubio,26:42,3,8,0.375,1,3,0.333,2,2,1.000,0,4,4,6,1,0,1,4,9,6
+7,Anthony Edwards,22:20,8,12,0.667,2,3,0.667,0,0,,0,1,1,1,2,0,0,4,18,6
+8,Jarrett Culver,19:44,5,7,0.714,3,3,1.000,1,2,0.500,3,3,6,0,1,0,0,3,14,9
+9,Naz Reid,17:36,3,8,0.375,2,4,0.500,0,0,,0,2,2,2,1,0,1,1,8,-9
+10,Juancho Hernangómez,5:15,0,1,0.000,0,0,,0,0,,1,0,1,0,0,0,0,1,0,-1
+11,Ed Davis,0:27,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,3
+12,Jarred Vanderbilt,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Jaden McDaniels,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Donovan Mitchell,37:16,6,23,0.261,2,9,0.222,7,9,0.778,1,1,2,5,3,2,3,2,21,-5
+1,Royce O'Neale,34:08,2,4,0.500,1,2,0.500,0,0,,3,10,13,1,0,0,2,1,5,-16
+2,Bojan Bogdanović,34:03,3,16,0.188,1,5,0.200,2,2,1.000,3,4,7,1,0,1,0,0,9,-7
+3,Mike Conley,33:33,6,13,0.462,2,7,0.286,6,8,0.750,0,6,6,4,1,0,4,5,20,9
+4,Rudy Gobert,29:03,7,10,0.700,0,0,,4,6,0.667,7,9,16,2,0,1,4,4,18,7
+6,Joe Ingles,25:52,3,8,0.375,2,5,0.400,2,2,1.000,1,1,2,0,0,0,3,3,10,-13
+7,Jordan Clarkson,23:05,8,17,0.471,2,6,0.333,5,6,0.833,1,2,3,0,0,0,0,0,23,6
+8,Derrick Favors,17:56,1,3,0.333,0,0,,3,4,0.750,2,4,6,2,1,0,2,4,5,-6
+9,Georges Niang,4:03,0,0,,0,0,,0,0,,1,1,2,0,0,0,0,1,0,6
+10,Juwan Morgan,1:01,0,0,,0,0,,0,0,,0,0,0,0,0,0,0,0,0,-6
+11,Miye Oni,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Shaquille Harrison,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Udoka Azubuike,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Elijah Hughes,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Christian Wood,43:37,14,22,0.636,0,2,0.000,3,4,0.750,3,10,13,3,0,1,3,4,31,-6
+1,James Harden,43:16,12,21,0.571,6,13,0.462,14,16,0.875,1,3,4,17,1,0,5,1,44,-6
+2,P.J. Tucker,42:31,3,10,0.300,1,4,0.250,0,2,0.000,3,8,11,1,1,1,4,3,7,-6
+3,Danuel House Jr.,38:07,3,8,0.375,1,4,0.250,4,6,0.667,0,3,3,1,1,0,1,1,11,-6
+4,David Nwaba,26:46,4,10,0.400,0,3,0.000,2,2,1.000,1,1,2,0,1,2,0,2,10,-5
+6,Jae'Sean Tate,37:14,5,9,0.556,1,4,0.250,2,2,1.000,1,3,4,2,1,0,1,4,13,14
+7,Sterling Brown,20:12,4,5,0.800,2,3,0.667,0,0,,0,1,1,0,0,0,1,3,10,-6
+8,Brodric Thomas,9:44,0,1,0.000,0,1,0.000,0,0,,1,2,3,3,0,0,1,3,0,4
+9,Bruno Caboclo,3:33,0,1,0.000,0,1,0.000,0,0,,0,1,1,0,0,1,0,1,0,7
+10,DeMarcus Cousins,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+11,Mason Jones,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Eric Gordon,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,John Wall,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Christian Wood,43:37,0.652,0.636,0.091,0.182,8.3,28.3,18.2,13.0,0.0,2.1,11.2,27.8,122,118,0.9,,,,
+1,James Harden,43:16,0.785,0.714,0.619,0.762,2.8,8.5,5.6,68.7,1.1,0.0,15.1,34.6,149,122,19.0,,,,
+2,P.J. Tucker,42:31,0.322,0.350,0.400,0.200,8.5,23.2,15.8,3.0,1.2,2.2,26.9,15.8,64,117,-9.7,,,,
+3,Danuel House Jr.,38:07,0.517,0.438,0.500,0.750,0.0,9.7,4.8,3.4,1.3,0.0,8.6,13.8,102,122,-5.1,,,,
+4,David Nwaba,26:46,0.460,0.400,0.300,0.200,4.5,4.6,4.6,0.0,1.8,6.9,0.0,18.4,103,117,-4.0,,,,
+6,Jae'Sean Tate,37:14,0.658,0.611,0.444,0.222,3.2,9.9,6.5,7.5,1.3,0.0,9.2,13.2,129,121,-2.2,,,,
+7,Sterling Brown,20:12,1.000,1.000,0.600,0.000,0.0,6.1,3.0,0.0,0.0,0.0,16.7,13.4,143,125,0.3,,,,
+8,Brodric Thomas,9:44,0.000,0.000,1.000,0.000,12.4,25.3,18.8,36.3,0.0,0.0,50.0,9.3,91,119,-7.5,,,,
+9,Bruno Caboclo,3:33,0.000,0.000,1.000,0.000,0.0,34.7,17.2,0.0,0.0,26.2,0.0,12.8,0,100,-10.9,,,,
+10,DeMarcus Cousins,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+11,Mason Jones,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+12,Eric Gordon,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+13,John Wall,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,,,,
+0,Devin Booker,38:15,10,21,0.476,3,7,0.429,3,3,1.000,0,3,3,3,1,0,7,5,26,3
+1,Chris Paul,32:47,8,19,0.421,2,6,0.333,4,5,0.800,1,4,5,12,2,1,0,4,22,-1
+2,Jae Crowder,32:44,7,13,0.538,3,8,0.375,0,0,,1,7,8,2,1,0,0,1,17,-1
+3,Deandre Ayton,29:56,3,5,0.600,0,0,,3,5,0.600,4,8,12,2,0,1,2,5,9,7
+4,Mikal Bridges,26:49,4,8,0.500,1,5,0.200,0,0,,1,2,3,1,1,3,0,2,9,2
+6,Cameron Johnson,25:03,3,10,0.300,2,8,0.250,0,0,,1,1,2,1,1,0,0,1,8,-10
+7,Damian Jones,15:27,1,3,0.333,0,0,,0,0,,0,2,2,0,0,0,0,2,2,-10
+8,Cameron Payne,15:13,4,7,0.571,0,1,0.000,0,0,,0,1,1,4,1,0,2,2,8,-2
+9,Langston Galloway,9:46,0,3,0.000,0,2,0.000,0,0,,0,0,0,0,0,0,0,0,0,-3
+10,Jevon Carter,7:18,1,6,0.167,0,5,0.000,0,0,,0,1,1,0,1,0,0,0,2,-3
+11,Jalen Smith,4:05,0,2,0.000,0,1,0.000,0,0,,2,0,2,0,0,0,0,0,0,3
+12,Frank Kaminsky,2:37,0,1,0.000,0,1,0.000,0,0,,0,1,1,0,0,0,0,1,0,0
+13,Ty-Shon Alexander,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Dario Šarić,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,E'Twaun Moore,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,De'Aaron Fox,34:54,7,14,0.500,3,7,0.429,7,8,0.875,1,3,4,7,1,2,5,2,24,-3
+1,Buddy Hield,34:41,4,14,0.286,2,7,0.286,4,6,0.667,1,3,4,0,1,0,1,3,14,1
+2,Harrison Barnes,34:08,5,14,0.357,0,2,0.000,1,1,1.000,1,10,11,2,0,1,2,0,11,2
+3,Richaun Holmes,24:02,3,5,0.600,0,0,,5,5,1.000,3,6,9,1,1,0,4,4,11,-1
+4,Marvin Bagley III,20:42,5,10,0.500,0,1,0.000,3,7,0.429,6,5,11,1,0,0,3,3,13,-3
+6,Tyrese Haliburton,26:09,1,4,0.250,0,3,0.000,0,0,,0,2,2,5,0,1,1,2,2,6
+7,Cory Joseph,19:08,1,8,0.125,0,2,0.000,1,2,0.500,0,3,3,1,0,1,1,2,3,-2
+8,Nemanja Bjelica,15:39,5,6,0.833,0,0,,2,2,1.000,1,0,1,2,0,1,0,3,12,8
+9,Glenn Robinson III,15:21,4,6,0.667,0,1,0.000,0,0,,0,3,3,0,0,1,0,1,8,4
+10,Hassan Whiteside,15:16,4,5,0.800,0,0,,0,2,0.000,2,6,8,1,1,2,1,2,8,3
+11,Justin James,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+12,Robert Woodard II,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+13,Kyle Guy,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+14,Jabari Parker,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+15,Chimezie Metu,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
+0,Josh Richardson,26:42,8,13,0.615,4,8,0.500,1,1,1.000,2,1,3,2,1,0,0,3,21,22
+1,Luka Dončić,25:55,8,18,0.444,0,5,0.000,8,9,0.889,0,9,9,8,1,0,2,0,24,29
+2,Tim Hardaway Jr.,22:59,7,14,0.500,4,8,0.500,0,0,,0,5,5,2,2,0,0,2,18,27
+3,Dorian Finney-Smith,18:02,2,4,0.500,2,4,0.500,2,2,1.000,0,1,1,1,0,0,0,1,8,25
+4,Dwight Powell,17:54,1,1,1.000,0,0,,2,2,1.000,1,3,4,0,1,0,1,2,4,12
+6,James Johnson,20:24,1,6,0.167,1,3,0.333,2,2,1.000,2,6,8,3,2,0,0,2,5,25
+7,Willie Cauley-Stein,18:01,3,5,0.600,0,1,0.000,3,3,1.000,4,2,6,2,0,1,0,0,9,31
+8,Trey Burke,17:30,2,3,0.667,1,2,0.500,0,0,,0,2,2,1,1,0,1,0,5,28
+9,Maxi Kleber,17:04,1,2,0.500,1,2,0.500,2,2,1.000,0,5,5,1,0,1,0,2,5,26
+10,Jalen Brunson,13:19,4,6,0.667,1,3,0.333,2,2,1.000,0,2,2,3,0,0,0,0,11,20
+11,Wes Iwundu,11:34,3,6,0.500,0,2,0.000,0,0,,0,1,1,0,1,0,0,1,6,2
+12,Josh Green,11:34,1,3,0.333,0,0,,2,2,1.000,0,2,2,2,0,0,1,0,4,2
+13,Boban Marjanović,10:16,2,4,0.500,0,2,0.000,0,2,0.000,2,3,5,0,0,0,1,0,4,4
+14,Tyrell Terry,8:46,0,2,0.000,0,1,0.000,0,0,,0,1,1,0,1,0,0,1,0,2
+0,Luke Kennard,29:00,3,11,0.273,1,6,0.167,0,0,,0,2,2,1,1,0,2,2,7,-29
+1,Paul George,24:09,4,13,0.308,0,6,0.000,7,8,0.875,0,2,2,4,0,0,4,1,15,-22
+2,Patrick Beverley,21:55,0,2,0.000,0,2,0.000,2,2,1.000,0,2,2,0,0,0,1,4,2,-23
+3,Nicolas Batum,21:30,2,4,0.500,0,1,0.000,0,0,,1,5,6,1,0,0,1,2,4,-17
+4,Serge Ibaka,19:32,6,11,0.545,0,4,0.000,1,2,0.500,1,8,9,1,0,1,0,2,13,-14
+6,Terance Mann,23:51,2,8,0.250,0,2,0.000,0,0,,0,3,3,2,0,0,1,2,4,-29
+7,Reggie Jackson,20:54,3,6,0.500,2,5,0.400,0,0,,0,3,3,1,0,0,2,0,8,-21
+8,Amir Coffey,17:39,0,5,0.000,0,2,0.000,1,2,0.500,1,0,1,2,0,0,0,1,1,-8
+9,Ivica Zubac,16:28,3,4,0.750,0,0,,4,4,1.000,1,1,2,0,0,0,0,1,10,-33
+10,Mfiondu Kabengele,15:11,1,3,0.333,1,3,0.333,2,2,1.000,0,2,2,0,1,0,0,2,5,-5
+11,Daniel Oturu,12:00,2,4,0.500,0,1,0.000,0,0,,0,2,2,0,0,1,1,2,4,-4
+12,Lou Williams,9:00,0,4,0.000,0,0,,0,0,,1,0,1,1,0,0,0,0,0,-24
+13,Patrick Patterson,8:51,0,1,0.000,0,1,0.000,0,0,,0,1,1,0,0,0,0,0,0,-26
+14,Kawhi Leonard,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play,Did Not Play
